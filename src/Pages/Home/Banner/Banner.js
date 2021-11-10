@@ -1,7 +1,7 @@
 import React from 'react';
 import Grid from '@mui/material/Grid';
-import chair from '../../../images/chair.png';
-import bg from '../../../images/bg.png';
+import chair from '../../../Images/chair.png';
+import bg from '../../../Images/bg.png';
 import { Typography, Button, Container } from '@mui/material';
 import Box from '@mui/material/Box';
 

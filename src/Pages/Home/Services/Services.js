@@ -4,9 +4,9 @@ import Grid from '@mui/material/Grid';
 import { Container } from '@mui/material';
 import Typography from '@mui/material/Typography';
 import Service from './../Service/Service';
-import fluoride from '../../../images/fluoride.png';
-import cavity from '../../../images/cavity.png';
-import whitening from '../../../images/whitening.png';
+import fluoride from '../../../Images/fluoride.png';
+import cavity from '../../../Images/cavity.png';
+import whitening from '../../../Images/whitening.png';
 
 const services = [
     {
